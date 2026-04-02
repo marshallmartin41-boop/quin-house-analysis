@@ -1,2 +1,15 @@
-# quin-house-analysis
-This is an analysis of Check-Data for the months of 11.1.25 - 1.31.26 for member engagement and trends of the 'Quin House.
+# Member Check-In Behavior Analysis
+
+## Overview
+This project analyzes member check-in behavior to identify peak hours, engagement patterns, and useful operational trends.
+
+## Tools Used
+- Python
+- Pandas
+- Jupyter Notebook
+
+## Files
+- `Check In Data.ipynb` — main analysis notebook
+
+## Notes
+Any sensitive data has been excluded or anonymized.
