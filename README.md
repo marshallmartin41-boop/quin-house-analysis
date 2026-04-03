@@ -32,7 +32,7 @@ The goal is to uncover patterns in member engagement, peak usage times, and dini
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The data used in this project includes:
 
@@ -43,7 +43,7 @@ The data used in this project includes:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 * Peak check-in hours occur during late afternoon and evening periods
 * Certain days consistently show higher member engagement
@@ -61,7 +61,7 @@ The data used in this project includes:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Integrate reservation and transaction timestamps for deeper behavioral analysis
 * Build predictive models for member retention
@@ -69,7 +69,7 @@ The data used in this project includes:
 
 ---
 
-## 👤 Author
+## Author
 
 **Marshall Martin**
 
