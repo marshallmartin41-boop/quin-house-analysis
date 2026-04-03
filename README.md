@@ -78,6 +78,6 @@ The data used in this project includes:
 
 ---
 
-## 💡 About This Project
+## About This Project
 
 This project demonstrates how data analytics can be applied in the hospitality industry to improve decision-making, enhance member experiences, and optimize business operations.
