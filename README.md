@@ -28,7 +28,7 @@ The goal is to uncover patterns in member engagement, peak usage times, and dini
 
 ## Tableau Dashboard
 
-**[View Interactive Dashboard]([PASTE_YOUR_TABLEAU_LINK_HERE](https://public.tableau.com/app/profile/marshall.martin/viz/MembershipAnalysisandTrendAnalysis-MarshallMartin/MembershipandTrendAnalysis?publish=yes)**
+**[View Interactive Dashboard](https://public.tableau.com/app/profile/marshall.martin/viz/MembershipAnalysisandTrendAnalysis-MarshallMartin/MembershipandTrendAnalysis?publish=yes)**
 
 ---
 
